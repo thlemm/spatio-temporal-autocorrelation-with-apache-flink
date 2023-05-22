@@ -1,5 +1,7 @@
 # Spatio-temporal autocorrelation with Apache Flink
 
+<img src="./src/main/resources/icon.png" alt="" width="150px">
+
 Welcome to this repository for high-frequent dynamic autocorrelation calculated inside geodata streams with Apache Flink.
 
 This is an example how to process data streams for geostatistics in real-time.
